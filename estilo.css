@@ -50,3 +50,9 @@ option {
     font-family: 'Nova Cut', cursive;
     
 }
+
+footer {
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
